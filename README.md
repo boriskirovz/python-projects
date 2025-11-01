@@ -7,3 +7,5 @@ Each folder contains a separate project with its own code and (optionally) a sho
 
 ## 📁 Projects
 
+### 🔐 Password Generator
+Generates secure random passwords with customizable length and character sets.  
