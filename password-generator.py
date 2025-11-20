@@ -22,7 +22,7 @@ def generate_password(length, use_lowercase, use_uppercase, use_digits, use_symb
 
 
 if __name__ == "__main__":
-    print("🔐 Password Generator")
+    print("Password Generator")
     print("-" * 30)
 
     while True:
